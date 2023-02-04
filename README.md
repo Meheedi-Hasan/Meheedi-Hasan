@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate Software Quality & Automation Engineer.</h3>
-<img align="right" alt="Coding" width="350" height="190" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width="300" height="190" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
 - 🌱 I’m currently learning **Automation testing frameworks, Cypress.**
