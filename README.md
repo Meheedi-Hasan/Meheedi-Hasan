@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" height="190" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
-- 🌱 I’m currently learning **Automation testing frameworks, Cypress.**
+- 🌱 I’m currently learning **API Automation testing with RestAssured frameworks.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Meheedi-Hasan?tab=repositories](https://github.com/Meheedi-Hasan?tab=repositories)
 
